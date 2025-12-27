@@ -1,7 +1,7 @@
 {
   "name": "weather-app",
   "private": true,
-  "homepage": "https://nan-ei.github.io/weather-app",
+  "homepage": "https://nan-ei.github.io/weather-app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
