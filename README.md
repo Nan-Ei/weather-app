@@ -17,16 +17,28 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Weather App
 
-Responsive weather application built with React.
+A simple weather application built with React and Vite that allows users to search weather information by city.
 
-### Features
-- Search cities and fetch live weather data
-- Persistent last searched city with localstorage
-- Mobile-first responsive design 
-- Smooth transitions 
+## Live Demo
+https://nan-ei.github.io/weather-app/
 
-### Tech Stack
+## Features
+- Search weather by city
+- Shows temperature, humidity, and weather condition
+- Loading state while fetching data 
+- Error handling for invalid city names
+- Responsive design
+
+## Tech Stack
 - React
-- JavaScript
+- Vite
 - CSS
 - OpenWeather API
+
+## Run Locally
+```bash
+npm install
+npm run dev
+
+
+
